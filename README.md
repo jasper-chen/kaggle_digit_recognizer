@@ -1,6 +1,5 @@
 # Digit Recognizer
 
-![alt tag](https://github.com/jasper-chen/kaggle_digit_recognizer/blob/master/kaggle-logo-transparent-300.png)
 Kaggle is an international data science competition, where organizations open source their data sets for participants to analyze and compete for prizes.
 
 # Code
